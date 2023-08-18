@@ -1,0 +1,19 @@
+{
+  "name": "jwt-my-parser",
+  "version": "0.0.1",
+  "description": "My own parser of JWT",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jwt"
+  ],
+  "author": "Maksym Karamanov (maximanbw@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.5.0",
+    "typescript": "^5.1.6"
+  }
+}
